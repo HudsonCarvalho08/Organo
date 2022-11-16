@@ -1,0 +1,5 @@
+para criar um arquivo novo é:
+
+npx create-react-app nome da aplicação
+
+as imagens é sempre colocar na pasta public

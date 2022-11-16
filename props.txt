@@ -1,0 +1,1 @@
+props é uma propriedade que usa para evitar ter que ficar digitando foi usado no label
